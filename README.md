@@ -119,6 +119,8 @@ The Power BI dashboard provides an overview of customer purchasing behavior with
 ---
 
 ## Results
+<img width="1285" height="732" alt="Screenshot 2026-07-05 151617" src="https://github.com/user-attachments/assets/d12f066b-ea33-480c-8fb4-3dbaf2857535" />
+
 
 Key insights generated from the project include:
 
